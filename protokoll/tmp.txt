@@ -1,0 +1,8 @@
+-
+ money_limit: NULL
+ decision_id: "2020/32"
+ text: "Der FSR Informatik möge beschlie\T1\ss en, dass die Sitzung am 01.06.2020 aufgrund des Feiertags ausfällt."
+ v_yes: 8
+ v_no: 1
+ v_neutral: 3
+ accepted: 0
